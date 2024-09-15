@@ -1,0 +1,1 @@
+resource.AddFile("materials/HUD/killicons/vmanip_kick.vmt")
